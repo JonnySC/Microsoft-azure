@@ -18,17 +18,14 @@
 <br>
 
 <h1>Azure event hub</h1>
-<img src="imagenes/azure-event-hub">
+<img src="imagenes/azure-event-hub.jpg">
 <p>Es un servicio para trasmitir e ingesta de grandes cantidades de datosen tiempo real </p>
 
 <br>
 
 <h1>Azure logic apps</h1>
-<img src="imagenes/azure-logic-apps">
+<img src="imagenes/azure-logic-apps.png">
 <p>Es un servicio para automatizar flujos de trabajo activandose con desencadenadores. No code, serverless y con conectores </p>
 
 <br>
 
-<h1>Azure logic apps</h1>
-<img src="imagenes/azure-logic-apps">
-<p>Es un servicio para automatizar flujos de trabajo activandose con desencadenadores. No code, serverless y con conectores </p>
