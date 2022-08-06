@@ -28,4 +28,5 @@
 <p>Es un servicio para automatizar flujos de trabajo activandose con desencadenadores. No code, serverless y con conectores </p>
 
 <br>
-
+<h2> aqui un ejmplo de como funciona </h2>
+<img src="imagenes/ejemplo.png">
