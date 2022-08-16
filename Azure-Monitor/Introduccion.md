@@ -60,6 +60,15 @@
 
 <br>
 
+<h1>Azure DDOS Protection</h1>
+<img src="imagenes/azure-ddos-protection.png">
+<p>Para administrar </p>
+
+
+
+
+
+<br>
 <h1>Azure sentinel</h1>
 <img src="imagenes/azure-sentinel.png">
 <p>Solucion SIEM Y SOAR / Escalable y nativa de la nube / Analisis de amenazas y seguridad </p>
