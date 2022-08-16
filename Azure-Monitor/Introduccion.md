@@ -60,25 +60,6 @@
 
 <br>
 
-<h1>Azure DDOS Protection</h1>
-<img src="imagenes/azure-ddos-protection.png">
-<br>
-<h1> Tiene una vercion basica</h1>
-
-<p>Supervision de la red y reduccion de los ataques en tiempo real en distintas regiones.Habilitado de manera automatica </p>
-<br>
-<h1>Vercion estandar</h1>
-<p>Ofrece funciones adicionales como directivas de proteccion que se ajustan con IA. Telemetria en tiempo real con Azure Monitor e integracion con servicios </P>
-
-<br>
-
-<h1>Azure Virtual Network</h1>
-<img src="imagenes/azure-virtual-network.png">
-<br>
-<h1> Es la virtualizacion de las redes que permite conectar redes y maquinas virtuales entre si al exterior</h1>
-
-<br>
-
 <h1>Azure sentinel</h1>
 <img src="imagenes/azure-sentinel.png">
 <p>Solucion SIEM Y SOAR / Escalable y nativa de la nube / Analisis de amenazas y seguridad </p>
@@ -100,17 +81,41 @@
 <p> Incidentes guiados por IA </p>
 
 <br>
+<h1>Azure DDOS Protection</h1>
+<img src="imagenes/azure-ddos-protection.png">
+<br>
+<h1> Tiene una vercion basica</h1>
 
+<p>Supervision de la red y reduccion de los ataques en tiempo real en distintas regiones.Habilitado de manera automatica </p>
+<br>
+<h1>Vercion estandar</h1>
+<p>Ofrece funciones adicionales como directivas de proteccion que se ajustan con IA. Telemetria en tiempo real con Azure Monitor e integracion con servicios </P>
+
+<br>
+
+<h1>Azure Virtual Network</h1>
+<img src="imagenes/azure-virtual-network.png">
+<br>
+<h1> Es la virtualizacion de las redes que permite conectar redes y maquinas virtuales entre si al exterior</h1>
+
+<br>
 <h1>Azure Virtual Machine</h1>
 <img src="imagenes/azure-virtual-machine.png">
 <br>
-<h1> La virtualizacion del hardware donde puedes controlar todo el sistema operativo y sucontenido</h1>
+<h2> La virtualizacion del hardware donde puedes controlar todo el sistema operativo y sucontenido</h2>
 
 <br>
 
 <h1>Azure Load Balancer</h1>
 <img src="imagenes/azure-load-balancer.png">
 <br>
-<h1> Es un equilibrador de carga regional. Es decir, verifica que los recursos se usen por igual para no saturar la craga de trabajo.</h1>
+<h2> Es un equilibrador de carga regional. Es decir, verifica que los recursos se usen por igual para no saturar la craga de trabajo.</h2>
+
+<br>
+
+<h1>Grupo de seguridad de red (NSG)</h1>
+<img src="imagenes/azure-nsg.png">
+<br>
+<h2> Recurso que permite filtrar el trafico dentro de una red.</h2>
 
 <br>
