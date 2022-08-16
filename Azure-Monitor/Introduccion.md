@@ -64,7 +64,19 @@
 <img src="imagenes/azure-ddos-protection.png">
 <p>Para administrar </p>
 
+<br>
 
+<h1> Tiene una vercion basica</h1>
+
+<p>Supervision de la red y reduccion de los ataques en tiempo real en distintas regiones.Habilitado de manera automatica </p>
+
+<br>
+
+<h1>vercion estandar</h1>
+<p>Ofrece funciones adicionales como directivas de proteccion que se ajustan con IA. Telemetria en tiempo real con Azure Monitor e integracion con servicios </P>
+
+
+<br>
 
 
 
