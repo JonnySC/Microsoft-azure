@@ -92,6 +92,10 @@
 <p>Ofrece funciones adicionales como directivas de proteccion que se ajustan con IA. Telemetria en tiempo real con Azure Monitor e integracion con servicios </P>
 
 <br>
+<h2>Ejemplo de como funciona el DDOS Protection</h2>
+<img src="imagenes/azure-ddos-protection-ejemplo.png>
+<br>
+
 
 <h1>Azure Virtual Network</h1>
 <img src="imagenes/azure-virtual-network.png">
@@ -119,3 +123,19 @@
 <h2> Recurso que permite filtrar el trafico dentro de una red.</h2>
 
 <br>
+
+<h1>Azure Fireware</h1>
+<img src="imagenes/azure-fireware.png">
+<br>
+<h2>Servicio de seguridad de red administrado que funciona como filtro al trafico de red. <br> Este servicio proteje y se conecta a:
+</h2>
+<br>
+<h2>Azure Stronge</h2>
+<p>Esta cubierto por fireware</p>
+<h2>Azure Virtual Network</h2>
+<p>Esta cubierto por fireware</p>
+<h2>Azure Monitor</h2>
+<p>
+Se conecta a monitor para mandarnos datos y alertas</p>
+<h2>Local y otras nubes</h2>
+<p>Es capaz de proteger tambien recursos locales, de AWS y de GCP.</p>
