@@ -139,3 +139,11 @@
 Se conecta a monitor para mandarnos datos y alertas</p>
 <h2>Local y otras nubes</h2>
 <p>Es capaz de proteger tambien recursos locales, de AWS y de GCP.</p>
+
+<br>
+
+<h1>Grupo de seguridad de red (NSG) </h1>
+<img src="imagenes/azure-nsg.png">
+<br>
+<h2>Recursos que permite filtrar el trafico dentro de una red virtual 
+</h2>
