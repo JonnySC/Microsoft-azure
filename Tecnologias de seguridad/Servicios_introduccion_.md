@@ -147,3 +147,27 @@ Se conecta a monitor para mandarnos datos y alertas</p>
 <br>
 <h2>Recursos que permite filtrar el trafico dentro de una red virtual 
 </h2>
+
+<br>
+
+<h1>Grupo de seguridad de aplicaciones (NSG) </h1>
+<img src="imagenes/azure-asg.png">
+<br>
+<h2>Recursos que permite apilar aplicaciones y aplicar directivas de seguridad a todo el grupo. 
+</h2>
+
+<br>
+
+<h1>Azure VPN gateway </h1>
+<img src="imagenes/azure-vpn-gateway.png">
+<br>
+<h2>Genera un canal cifrado y seguro sobre internet 
+</h2>
+
+<br>
+
+<h1>Azure bastion </h1>
+<img src="imagenes/azure-bastion.png">
+<br>
+<h2>Proporciona acceso seguro y sin problemas a maquinas virtuales mediante RDP y SSH
+</h2>
